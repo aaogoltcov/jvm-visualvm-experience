@@ -1,3 +1,9 @@
-Домашнее задание для Netology.ru для курса Java Developer   
+![img.png](img.png)
 
-Описание и инструкция к выполнению [здесь](https://github.com/netology-code/jd-homeworks/tree/master/jvm/README.md)
+2 графика ниже соответствуют созданию 529, 2117 и 869 классов в metaspace.
+![img_1.png](img_1.png)
+![img_2.png](img_2.png)
+
+График ниже отражает изменение максимального размера кучи, а далее ее рост
+за счет 3-х кратного создания объектов в количестве 5000000
+![img_3.png](img_3.png)
